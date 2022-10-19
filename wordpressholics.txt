@@ -1,3 +1,4 @@
 Resolusi Wordpressholics
 - Membuat satu part tutorial Wordpress satu minggu
 - Setup wordpress hosting
+- Membuat system affiliate
